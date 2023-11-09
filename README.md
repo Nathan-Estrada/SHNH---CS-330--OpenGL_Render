@@ -1,4 +1,4 @@
-# SHNH---CS-330--OpenGL_Render
+# SHNU---CS-330--OpenGL_Render
 ### Displaying some 3D rendering completed in my Comp Graph and Visualization class at SNHU
 My time throughout this semester was my first time working with OpenGL, and I had very little experience with 3D modeling in general. I learned a lot about creating 3D computated graphic visualizations, and look forward to applying the skills that I have gained in future projects. 
 The main goal of the project was to take a photo of various objects composed of relatively simple shapes, and to create a 3D render of the photo. To accomplish this task, I created a list of what simple shapes I would need to create to construct the more complex shapes to represent the objects in the photo.
